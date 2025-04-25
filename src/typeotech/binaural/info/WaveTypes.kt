@@ -1,5 +1,6 @@
 package typeotech.binaural.info
 
+
 class WaveTypes{
     /**
      * Delta Waves (0.5-4 Hz): Delta waves are associated with deep sleep and may help promote a state of relaxation and receptivity.
